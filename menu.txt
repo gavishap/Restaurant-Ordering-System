@@ -1,0 +1,36 @@
+Hamburger
+Main Course
+10.99
+Fries
+Side
+3.50
+Pizza
+Main Course
+12.99
+Caesar Salad
+Appetizer
+5.99
+Grilled Chicken
+Main Course
+14.99
+Mashed Potatoes
+Side
+4.50
+Spaghetti
+Main Course
+11.99
+Fried Rice
+Main Course
+9.99
+Nachos
+Appetizer
+6.99
+Coke
+Drink
+2.50
+Sprite
+Drink
+2.50
+Iced Tea
+Drink
+3.00
